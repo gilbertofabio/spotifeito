@@ -1,0 +1,213 @@
+{
+  "users": [
+    {
+      "Email": "Public-playlist",
+      "PlayLists": [
+        {
+          "id": "01",
+          "nome": "Sertanejo Universitário",
+          "imagem": "sertanejo",
+          "musicas": [
+            "Happy",
+            "Dance",
+            "Party"
+          ]
+        },
+        {
+          "id": "02",
+          "nome": "Rock",
+          "imagem": "rock",
+          "musicas": [
+            "Party"
+          ]
+        },
+        {
+          "id": "03",
+          "nome": "Samba",
+          "imagem": "samba",
+          "musicas": [
+            "Happy",
+            "Party"
+          ]
+        },
+        {
+          "id": "04",
+          "nome": "Axe",
+          "imagem": "axe",
+          "musicas": [
+            "Happy",
+            "Party",
+            "Dance",
+            "Party"
+          ]
+        },
+        {
+          "id": "05",
+          "nome": "Pagode",
+          "imagem": "pagode",
+          "musicas": [
+            "Happy",
+            "Dance"
+          ]
+        },
+        {
+          "id": "06",
+          "nome": "Forró",
+          "imagem": "forro",
+          "musicas": [
+            "Party",
+            "Dance"
+          ]
+        }
+      ],
+      "id": "0000"
+    },
+    {
+      "Email": "musicas-buscas",
+      "musicas": [
+        "Happy",
+        "Dance",
+        "Party"
+      ],
+      "id": "0001"
+    },
+    {
+      "Email": "exemplo@mail.com",
+      "Username": "exemplo st",
+      "Password": "1234",
+      "DataNasc": "2022-08-30",
+      "Genero": "nãoAPlica",
+      "PlayLists": [
+        {
+          "id": "Mon Oct 24 2022 14:29:42 GMT-0300 (Horário Padrão de Brasília)",
+          "nome": "Party",
+          "imagem": "padrao",
+          "musicas": [
+            "Party"
+          ]
+        },
+        {
+          "id": "Mon Oct 24 2022 14:29:51 GMT-0300 (Horário Padrão de Brasília)",
+          "nome": "Party",
+          "imagem": "padrao",
+          "musicas": [
+            "Party"
+          ]
+        },
+        {
+          "id": "Mon Oct 24 2022 14:30:04 GMT-0300 (Horário Padrão de Brasília)",
+          "nome": "Party",
+          "imagem": "padrao",
+          "musicas": [
+            "Party"
+          ]
+        }
+      ],
+      "id": "0dT1CX"
+    },
+    {
+      "Email": "g@mail.com",
+      "Username": "Gib",
+      "Password": "1234",
+      "DataNasc": "2022-10-20",
+      "Genero": "Masculino",
+      "PlayLists": [
+        {
+          "id": "Sun Oct 23 2022 15:51:49 GMT-0300 (Horário Padrão de Brasília)",
+          "nome": "Dance",
+          "imagem": "padrao",
+          "musicas": [
+            "Dance",
+            "Party"
+          ]
+        },
+        {
+          "id": "Mon Oct 24 2022 19:52:27 GMT-0300 (Horário Padrão de Brasília)",
+          "nome": "Party",
+          "imagem": "padrao",
+          "musicas": [
+            "Party"
+          ]
+        }
+      ],
+      "id": "0dTXgyt"
+    },
+    {
+      "Email": "ex@mail.com",
+      "Username": "Exemplo2",
+      "Password": "1234",
+      "DataNasc": "2022-10-20",
+      "Genero": "Feminino",
+      "PlayLists": [],
+      "id": "T_XjCX8"
+    },
+    {
+      "Email": "novo@novo.com",
+      "Username": "Novo Perfil",
+      "Password": "1234",
+      "DataNasc": "2022-10-20",
+      "Genero": "NaoBinario",
+      "PlayLists": [],
+      "id": "UUOarXU"
+    },
+    {
+      "Email": "Gilberto@mail.com",
+      "Username": "Gilberto Fabio",
+      "Password": "1234",
+      "DataNasc": "2022-11-02",
+      "Genero": "Masculino",
+      "PlayLists": [
+        {
+          "id": "05",
+          "nome": "Pagode",
+          "imagem": "pagode",
+          "musicas": [
+            "Happy",
+            "Dance"
+          ]
+        },
+        {
+          "id": "Sun Oct 23 2022 15:40:06 GMT-0300 (Horário Padrão de Brasília)",
+          "nome": "Party",
+          "imagem": "padrao",
+          "musicas": [
+            "Party"
+          ]
+        },
+        {
+          "id": "Sun Oct 23 2022 15:48:07 GMT-0300 (Horário Padrão de Brasília)",
+          "nome": "Dance",
+          "imagem": "padrao",
+          "musicas": [
+            "Dance"
+          ]
+        },
+        {
+          "id": "Sun Oct 23 2022 15:50:18 GMT-0300 (Horário Padrão de Brasília)",
+          "nome": "Happy",
+          "imagem": "padrao",
+          "musicas": [
+            "Happy"
+          ]
+        },
+        {
+          "id": "Sun Oct 23 2022 16:08:46 GMT-0300 (Horário Padrão de Brasília)",
+          "nome": "Dance",
+          "imagem": "padrao",
+          "musicas": [
+            "Dance"
+          ]
+        },
+        {
+          "id": "Sun Oct 23 2022 16:19:03 GMT-0300 (Horário Padrão de Brasília)",
+          "nome": "Dance",
+          "imagem": "padrao",
+          "musicas": [
+            "Dance"
+          ]
+        }
+      ],
+      "id": "anSAVuC"
+    }
+  ]
+}
